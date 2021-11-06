@@ -1544,7 +1544,7 @@ MonoBehaviour:
   showWinScreen: 0
   showLossScreen: 0
   labelText: Collect all 4 goals and win the game!
-  maxGoals: 1
+  maxGoals: 4
 --- !u!4 &1125951893
 Transform:
   m_ObjectHideFlags: 0
