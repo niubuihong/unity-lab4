@@ -34,7 +34,7 @@ public class GameBehavior : MonoBehaviour
         }
     }
     
-    private int _marbleHealth = 1;
+    private int _marbleHealth = 10;
     // 4
     public int Health
     {
